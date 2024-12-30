@@ -1,0 +1,14 @@
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\bin\Debug\net8.0\OgrenciKayit.exe
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\bin\Debug\net8.0\OgrenciKayit.deps.json
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\bin\Debug\net8.0\OgrenciKayit.runtimeconfig.json
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\bin\Debug\net8.0\OgrenciKayit.dll
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\bin\Debug\net8.0\OgrenciKayit.pdb
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\net8.0\OgrenciKayit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\net8.0\OgrenciKayit.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\net8.0\OgrenciKayit.AssemblyInfo.cs
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\net8.0\OgrenciKayit.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\net8.0\OgrenciKayit.dll
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\net8.0\refint\OgrenciKayit.dll
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\net8.0\OgrenciKayit.pdb
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\net8.0\OgrenciKayit.genruntimeconfig.cache
+C:\Users\Monster\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\net8.0\ref\OgrenciKayit.dll
